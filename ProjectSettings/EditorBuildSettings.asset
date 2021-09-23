@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Weeks/Week 7/Eat up/Scenes/Menu.unity
     guid: 70d9755ebfd4669499b23a07c3ebcc26
   - enabled: 1
-    path: Assets/Weeks/Week 7/Eat up/Scenes/Eat up.unity
+    path: Assets/Weeks/Week 8/Eat up/Scenes/Eat_up_week_8.unity
     guid: c24c3cc03a2d5924f838f7707ce92148
   m_configObjects: {}
